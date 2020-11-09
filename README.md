@@ -9,4 +9,4 @@ Implementations of Data structures and algorithms
 7. Detect cycle in an undirected graph (using DFS)
 8. Finding next greater element
 9. Kruskal Algorithm using disjoint set
-
+10. 0-1 Knapsack 
